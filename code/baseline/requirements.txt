@@ -1,0 +1,15 @@
+# nlp
+gensim
+nltk
+sklearn
+
+# math/data
+numpy
+pandas
+
+# plotting
+matplotlib
+seaborn
+
+# util
+tqdm
