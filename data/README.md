@@ -1,5 +1,7 @@
 # Datasets
 
+Extract the Zenodo datasets so that all the files are contained in this `data` folder.
+
 ## Official Dataset
 
 The official Same Side Stance Classification Shared Task dataset is available via: [webis-de/argmining19-same-side-classification #data](https://github.com/webis-de/argmining19-same-side-classification#data). Please refer to the instructions on how to retriev the data in the linked repo.
@@ -7,6 +9,28 @@ The official Same Side Stance Classification Shared Task dataset is available vi
 ## Resampled Dataset
 
 Official publication: https://zenodo.org/record/5380989
+
+### Citation
+
+If you use this dataset, please use the following citation:
+
+```bib
+@dataset{gregor_wiedemann_2021_5380989,
+  author       = {Gregor Wiedemann and
+                  Erik Körner and
+                  Ahmad Dawar Hakimi and
+                  Gerhard Heyer and
+                  Martin Potthast},
+  title        = {Same Side Stance Classification Resampled Datasets},
+  month        = sep,
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {10.5281/zenodo.5380989},
+  url          = {https://doi.org/10.5281/zenodo.5380989}
+}
+```
+
 
 ## Artificial Test Set
 
