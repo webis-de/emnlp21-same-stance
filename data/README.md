@@ -4,7 +4,7 @@ Extract the Zenodo datasets so that all the files are contained in this `data` f
 
 ## Official Dataset
 
-The official Same Side Stance Classification Shared Task dataset is available via: [webis-de/argmining19-same-side-classification #data](https://github.com/webis-de/argmining19-same-side-classification#data). Please refer to the instructions on how to retriev the data in the linked repo.
+The official Same Side Stance Classification Shared Task dataset is available via: [webis-de/argmining19-same-side-classification #data](https://github.com/webis-de/argmining19-same-side-classification#data). Please refer to the instructions on how to retrieve the data in the linked repo.
 
 ## Resampled Dataset
 
