@@ -1,6 +1,6 @@
 # EMNLP 2021 - On Classifying whether Two Texts are on the Same Side of an Argument
 
-The repository for the EMNLP 2021 paper "On Classifying whether Two Texts are on the Same Side of an Argument"
+The repository for the EMNLP 2021 paper "[On Classifying whether Two Texts are on the Same Side of an Argument](https://aclanthology.org/2021.emnlp-main.795/)"
 
 ## Data
 
